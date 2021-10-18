@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chaithanyajk
 - 👀 I’m interested in Java , JS, JSP
 - 🌱 I’m currently learning node.js, Java 8, MEAN Stack
-- 💞️ I’m looking to collaborate on anything that gives me a passion to learn explore my hidden potentials
+- 💞️ I’m looking to collaborate on anything that gives me a passion to learn and explore my hidden potentials
 - 📫 How to reach me chaithanyajk@gmail.com
 
 <!---
